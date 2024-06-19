@@ -1,6 +1,6 @@
 # Banco-de-Dados
 
-# - Consultas do Projeto de Banco de Dados Parte 1
+- Consultas do Projeto de Banco de Dados Parte 1
     1 - Mostre o nome e o endereço do cliente que indicou 'João da Silva'.
     2 - Liste o CNPJ, nome e email dos fornecedores que não tem home page
     cadastrados no sistema.
@@ -20,7 +20,7 @@
     produtos não é maior que R$ 163,00.
     11 - Liste os 3 fornecedores que mais forneceram produtos.
 
-# - Consultas do Projeto de Banco de Dados Parte 2
+- Consultas do Projeto de Banco de Dados Parte 2
     1 - Implemente uma procedure PL/SQL chamada ajusta_preco. Esta procedure recebe
     o código de uma categoria e aplica um aumento de R$100,00 no preço (venda e
     compra) de todos os produtos da categoria informada.
